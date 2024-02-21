@@ -1,4 +1,13 @@
-### Hi there 👋
+## Education
+- Studying in METU, Computer Engineering (English Preparatory)
+
+## Technologies 
+- Python (Django)
+- TypeScript (NestJS)
+- Flutter
+- SQL (PostgreSQL, MySQL)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **safa-cetinkaya/safa-cetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
