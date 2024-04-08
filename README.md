@@ -1,5 +1,5 @@
 ## Education
-- Studying in METU, Computer Engineering (English Preparatory)
+- Studying at METU, Computer Engineering (English Preparatory)
 
 ## Technologies 
 - Python (Django)
